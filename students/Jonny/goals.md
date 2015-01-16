@@ -42,14 +42,19 @@
 
 > At the moment I am very unsure about what my strengths are but I have a weaknesses that I am aware of and could definitly improve on
 
-> 1. Keeping focus
-..* To keep focus I could set myself small goals or projects to achieve. I think organising a doable work plan will make a big difference to whether my project will be successful.
-2. Staying motivated
-..* I think I am motivated the most when I am at college so I will be coming to college everyday to stay on the right track.
-3. Organising a doable work plan
-..* Be realistic get someone to look over it and see if they can give me any advice.
+> * Keeping focus
 
-> hopefully at the end of this project I will be able to turn these weaknesses into strengths.
+> 	* To keep focus I could set myself small goals or projects to achieve. I think organising a doable work plan will make a big difference to whether my project will be successful.
+
+> * Staying motivated
+
+> 	* I think I am motivated the most when I am at college so I will be coming to college everyday to stay on the right track.
+
+> * Organising a doable work plan
+
+> 	* Be realistic get someone to look over it and see if they can give me any advice.
+
+> Hopefully at the end of this project I will be able to turn these weaknesses into strengths.
 
 -
 
