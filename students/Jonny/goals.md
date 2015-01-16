@@ -35,6 +35,19 @@
 > This will always be a goal whether it is in one language or another but from this project I will improve my knowledge of CSS. 
 
 -
-## Admiration
+## Where I stand
 
-I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. 
+> At the moment I am very unsure about what my strengths are but I have a weaknesses that I am aware of and could definitly improve on
+1. Keeping focus
+2. Staying motivated
+3. Organising a doable work plan
+hopefully at the end of this project I will be able to 
+
+-
+
+### Admiration
+
+I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
+-
+
+
