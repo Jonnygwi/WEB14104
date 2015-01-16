@@ -1,5 +1,7 @@
 # Ground zero
 
+## Goals
+
 #### 1. Gain an understanding of `constructing a website to an industry standard`.
 
   
