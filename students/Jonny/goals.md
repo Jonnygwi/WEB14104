@@ -40,7 +40,7 @@
 ### Strengths and weaknesses
 -
 
-> At the moment I am very unsure about what my strengths are but I have a weaknesses that I am aware of and could definitly improve on
+> At the moment I am very unsure about what my strengths are but I have a weaknesses that I am aware of and could definitly improve on.
 
 > * Keeping focus
 
