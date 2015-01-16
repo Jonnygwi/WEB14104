@@ -38,16 +38,21 @@
 ## Where I stand
 
 > At the moment I am very unsure about what my strengths are but I have a weaknesses that I am aware of and could definitly improve on
-1. Keeping focus
+
+> 1. Keeping focus
+..* To keep focus I could set myself small goals or projects to achieve. I think organising a doable work plan will make a big difference to whether my project will be successful.
 2. Staying motivated
+..* I think I am motivated the most when I am at college so I will be coming to college everyday to stay on the right track.
 3. Organising a doable work plan
-hopefully at the end of this project I will be able to 
+..* Be realistic get someone to look over it and see if they can give me any advice.
+
+hopefully at the end of this project I will be able to turn these weaknesses into strengths.
 
 -
 
 ### Admiration
 
-I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
+#### I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
 -
 
 
