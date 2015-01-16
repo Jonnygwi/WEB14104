@@ -34,3 +34,7 @@
 
 > This will always be a goal whether it is in one language or another but from this project I will improve my knowledge of CSS. 
 
+-
+## Admiration
+
+I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. 
