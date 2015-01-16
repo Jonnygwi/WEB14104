@@ -46,13 +46,13 @@
 3. Organising a doable work plan
 ..* Be realistic get someone to look over it and see if they can give me any advice.
 
-hopefully at the end of this project I will be able to turn these weaknesses into strengths.
+> hopefully at the end of this project I will be able to turn these weaknesses into strengths.
 
 -
 
 ### Admiration
 
-#### I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
+> I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
 -
 
 
