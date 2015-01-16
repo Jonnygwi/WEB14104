@@ -51,6 +51,7 @@
 -
 
 ### Admiration
+-
 
 > I have a friend who is in the front end web development industry. I admire him because he learnt everything he knows and gained the contacts he has with just his own curiousity. As an individual I find it very hard to to push myself out of my comfort zone and publically ask questions. I could learn a lot about getting my self heard or just simply "putting myself out there" from this guy.
 -
