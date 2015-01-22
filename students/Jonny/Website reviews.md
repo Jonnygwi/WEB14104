@@ -1,10 +1,30 @@
 #Website reviews
 
-1. [Hongik University](#Hongik)
-2. [Smith University](#Smith)
-3. [University of Science and Technology Beijing](#Beijing)
+1. [Smith University](#Smith)
+2. [University of Science and Technology Beijing](#Beijing)
+3. [Hongik University](#Hongik)
 
 ---
+
+<a id="Smith"></a>
+## Smith University
+[Site](http://www.smith.edu/)
+
+##### Brief review
+---
+<a id="Beijing"></a>
+## University of Science and Technology Beijing
+[Site](http://en.ustb.edu.cn/)
+
+##### Brief review
+
+ The navigation on University of Science and Technology Beijing website is very irritating to use. It flicks around your cursor which makes it very hard to keep track of what item you want to click on. I have the hang of it now, but it took me a while. The navigation is something that should be simple and intuative not a hinderance. If you can't get your head around the navigation bar there is a working search bar slap bang in the middle of the page, but you must be confident with your typing because the bar is too short for you to see the letters you have input. 
+
+ Besides the navigation menu being disfuctional and the search bar being a little to small to avoid user errors, the information I could locate was what you would expect and the written english is to a consistant standard, avoiding misscommunication.  I noticed that some additions were made on the 7th of January so the content should be up to date, however when clicking some menu items I was redirected to a "404 error screen".
+ 
+ Overall I think the site would do a lot better if it was easier to access the valuable material that USTB has to offer.
+ 
+ ---
 
 <a id="Hongik"></a>
 ## Hongik University
@@ -28,23 +48,3 @@ Although there is nothing wrong with the English that is used on this site they 
 
 ###Content updatedness
 When inspecting element I came across a string that was commented out ( 영문홈페이지 홈페이지 작성(2002. 12. 15) 홍익대학교 홈페이지실 개발자: 김준석 디자이너: 윤상희 ) translated into english it says the site was created on the 15th of December 2002 and I am guessing it hasn't been updated since.
-
----
-
-<a id="Smith"></a>
-## Smith University
-[Site](http://www.smith.edu/)
-
-##### Brief review
----
-<a id="Beijing"></a>
-## University of Science and Technology Beijing
-[Site](http://en.ustb.edu.cn/)
-
-##### Brief review
-
-The navigation on University of Science and Technology Beijing website is very irritating to use. It flicks around your cursor which makes it very hard to keep track of what item you want to click on. I have the hang of it now, but it took me a while. The navigation is something that should be simple and intuative not a hinderance. If you can't get your head around the navigation bar there is a working search bar slap bang in the middle of the page, but you must be confident with your typing because the bar is too short for you to see the letters you have input. 
-
- Besides the navigation menu being disfuctional and the search bar being a little to small to avoid user errors, the information I could locate was what you would expect and the written english is to a consistant standard, avoiding misscommunication.  I noticed that some additions were made on the 7th of January so the content should be up to date, however when clicking some menu items I was redirected to a "404 error screen".
- 
- Overall I think the site would do a lot better if it was easier to access the valuable material that USTB has to offer.
