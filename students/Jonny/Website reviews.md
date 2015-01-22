@@ -1,10 +1,10 @@
 #Website reviews
 
-1. [Hongik University](#Hongik)
-2. [Smith University](#Smiths)
-3. [University of Science and Technology Beijing](#Beijing)
+1. [Hongik University](#anchor1)
+2. [Smith University](#anchor2)
+3. [University of Science and Technology Beijing](#anchor3)
 
-## [Hongik University](id:Hongik)
+## [Hongik University](id:anchor1)
 [Site](http://en.hongik.ac.kr/)
 
 Hongik University is a Korean university that is well known for its Art and Design students/courses. Being a university that specialises in the design field I think having an inspiring website is necessary, based on the fact that this is the only form of media anyone international can get information from. I was recommended this university by a Korean friend, and if it wasn't for her reassurance I wouldn't be interested in going here. The website alone would have put me off completely. For this reason I have decided that this will be a great website to redesign.  
@@ -26,8 +26,8 @@ Although there is nothing wrong with the English that is used on this site they 
 ###Content updatedness
 When inspecting element I came across a string that was commented out ( 영문홈페이지 홈페이지 작성(2002. 12. 15) 홍익대학교 홈페이지실 개발자: 김준석 디자이너: 윤상희 ) translated into english it says the site was created on the 15th of December 2002 and I am guessing it hasn't been updated since.
 
-## [Smith University](id:Smiths)
+## [Smith University](id:anchor2)
 [Site](http://www.smith.edu/)
 
-## [University of Science and Technology Beijing](id:Beijing)
+## [University of Science and Technology Beijing](id:anchor3)
 [Site](http://en.ustb.edu.cn/)
