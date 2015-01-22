@@ -4,7 +4,8 @@
 2. [Smith University](#Smith)
 3. [University of Science and Technology Beijing](#Beijing)
 
-## Hongik University<a id="Hongik"></a>
+<a id="Hongik"></a>
+## Hongik University
 [Site](http://en.hongik.ac.kr/)
 
 Hongik University is a Korean university that is well known for its Art and Design students/courses. Being a university that specialises in the design field I think having an inspiring website is necessary, based on the fact that this is the only form of media anyone international can get information from. I was recommended this university by a Korean friend, and if it wasn't for her reassurance I wouldn't be interested in going here. The website alone would have put me off completely. For this reason I have decided that this will be a great website to redesign.  
