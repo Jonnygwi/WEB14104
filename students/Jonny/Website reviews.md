@@ -27,8 +27,10 @@ Although there is nothing wrong with the English that is used on this site they 
 ###Content updatedness
 When inspecting element I came across a string that was commented out ( 영문홈페이지 홈페이지 작성(2002. 12. 15) 홍익대학교 홈페이지실 개발자: 김준석 디자이너: 윤상희 ) translated into english it says the site was created on the 15th of December 2002 and I am guessing it hasn't been updated since.
 
-## Smith University <a id="Smith"></a>
+<a id="Smith"></a>
+## Smith University
 [Site](http://www.smith.edu/)
 
-## University of Science and Technology Beijing<a id="Beijing"></a>
+<a id="Beijing"></a>
+## University of Science and Technology Beijing
 [Site](http://en.ustb.edu.cn/)
