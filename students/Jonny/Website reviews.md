@@ -1,8 +1,8 @@
 #Website reviews
 
-1. [Hongik University](#anchor1)
-2. [Smith University](#anchor2)
-3. [University of Science and Technology Beijing](#anchor3)
+1. [Hongik University][link](#anchor1)
+2. [Smith University][link](#anchor2)
+3. [University of Science and Technology Beijing][link](#anchor3)
 
 ## [Hongik University](id:anchor1)
 [Site](http://en.hongik.ac.kr/)
