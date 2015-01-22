@@ -4,6 +4,7 @@ Hongik University is a Korean university that is well known for its Art and Desi
 
 ###Loading time
 Some of the websites key design features are either loading slowely or on several attempts not loading at all, for example the header image loads in different stages. Resulting in a loss of interest.
+[Hongik loading gif.](https://github.com/Jonnygwi/WEB14104/blob/master/students/Jonny/Hongikloading.gif "Hongik website loading gif")
 
 ### Visual inaccessibility
 On every page the address and logo is at the bottom of the page, the text is really small and difficult to read. I think this is due to the address being an image and pixelating when its stretched across the footer. 
