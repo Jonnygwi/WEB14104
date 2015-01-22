@@ -11,6 +11,13 @@
 [Site](http://www.smith.edu/)
 
 ##### Brief review
+
+This website looks like it was designed to sell an ebook on how to make a million dollars over night. Despite having some nice photography the composition is too busy and ruins them. The choice of block colors are overwhelming and the frilly background does not suit a university website as you cannot take it seriously.
+
+I do however like the function of being able to see what some students have been able to say about the uni but the description changes on each reload. I think this might be a waste because its unlikely that someone is going to visit that page, refresh the homepage and click it again. It would be much better if the students comments had their own section on the nav bar.
+
+I think there is some valuable information on this site and it is easy to navigate but the aesthetics make me want to cry.
+
 ---
 <a id="Beijing"></a>
 ## University of Science and Technology Beijing
