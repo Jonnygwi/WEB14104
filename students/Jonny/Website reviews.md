@@ -43,6 +43,6 @@ When inspecting element I came across a string that was commented out ( 영문�
 
 ##### Brief review
 
-The navigation on the Cal Tech website is just plain confusing. I have the hang of it now, but it took me a while. Navigation should be so intuitive that you get it immediately. That cannot be a hindrance on the website. When I clicked “Explore the Menu,” it wasn’t immediately apparent to me that there were more main menu items. They sort of disappear into the black and white background of the website. The mobile version of this website was actually more impressive than the desktop version. The mobile version is easy to navigate and was much more intuitive than the desktop version.
+The navigation on University of Science and Technology Beijing website is just simply annoying to use. It flicks around your mouse it is very hard to keep track of. I have the hang of it now, but it took me a while. The navigation is something that should be simple and intuative not a hinderance. When I clicked “Explore the Menu,” it wasn’t immediately apparent to me that there were more main menu items. They sort of disappear into the black and white background of the website. The mobile version of this website was actually more impressive than the desktop version. The mobile version is easy to navigate and was much more intuitive than the desktop version.
 
 
