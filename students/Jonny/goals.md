@@ -22,7 +22,7 @@
 #### 4. Improve my `aesthetic composition`.
 
 
-> Whilst this goal will not be my primary focus for this project, and I will be looking a functionality rather than aesthetics, it is still an area that is hard to ignore.  I believe that through the process of making something that works well I will instinctively be looking at how it looks on the page.  However, I also think my aesthetic composition and judgement will develop by simply practising and by a process of trial and error. I feel I learn best from making mistakes.
+> Improving my aesthetic composition is not a primary goal with this project but is something I am very interested in. Aesthetic composition is a broad area that I am always striving to improve.  I believe that through the process of making something that works well I will instinctively be looking at how it looks on the page.  However, I also think my aesthetic composition and judgement will develop by simply practising and by a process of trial and error. I feel I learn best from making mistakes.
 
 
 #### 5. `Portfolio building`.
