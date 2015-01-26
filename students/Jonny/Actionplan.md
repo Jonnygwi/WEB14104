@@ -1,6 +1,7 @@
 #Website redesign action list
 
 ### Analyse
+
 * Identify re-usable content (course information ect).
 * Identify design features that could potentionally be used.
 * Get inspiration from their national site and note down design principles they could be developed within the redisgn.
@@ -15,9 +16,14 @@
 * Organise downloaded files.
 
 ###Design
+
 *  Using the moodboards that have been created start drawing some wireframes.
 *  Go through various styles don't just settle for the first one or keep developing one until I am happy.
+*  Get content from Korean friend that can translate from national site.
 
 ###Develop
-* Code basic structure
+
+* Sort out domain/hosting.
+* Code basic structure.
+* Import key content.
 
