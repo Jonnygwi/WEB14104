@@ -28,3 +28,26 @@ li {
 .method img {
     margin-top: 10px;
 }
+.landing-page {
+    background: url("http://thehappytype.com/wp-content/uploads/2014/05/P1014380.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.landing-page h1 {
+    cursor:pointer;
+    top: 50%;
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    color: rgb(255,255,255);
+}
+.landing-page h1:hover { 
+    color: rgb(200,200,200);
+}
