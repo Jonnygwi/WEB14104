@@ -1,10 +1,5 @@
-Watch The Internet's Own Boy, a film about Aaron Swartz: wiz-kid, co-founder of Reddit and activist for social justice and freedom of information.
+Net neutrality is the idea of data equality. Internet service providers and the government should treat all data on the Internet the same. I believe that this was the key to the World Wide Web being so popular. If ISP or the government had any control over the web there would be to much throttling of certain connections that have paid more. This would lead to only rich people being able to afford to use the web at a decent speed, naturally resulting in people that can't afford to use the web to be put off of using it. The whole point of the web is that everyone can use it, so it creates this interconnected computer network. There are some aspects of net neutrality that my opinion is questionable on. I don't agree that all the information on there should be treated the same. I think that there is a lot of content of a disturbing nature that could be damaging to people. 4chan/b is a website that has a lot of images of dismembered bodies or pornography of an illegal nature, which anyone can access.
 
-Heads up! This will be available on BBC iPlayer until the 4th of March 2015, so you better watch it before then.
-
-Questions that may guide your blog post (in no particular order):
-
-- How do you feel about freedom of information?
-- What do you think constitutes digital theft?
-- How do you feel about Net Neutrality?
-- If you had magical powers, would you use them for good or to make you mountains of cash?
+Like Aaron Shwartz I believe that curtains types of information should be free for anyone to look at. In particular educational documents. Science belongs to everyone it’s the makeup of everything around you, it does not belong to anyone. [Just like the sun does not belong to a crazy women in Spain.]
+(http://www.ibtimes.co.uk/woman-sue-ebay-denying-her-right-sell-plots-land-sun-1504266)
+everyone has the right to learn about science, publishing companies should not be able to charge for this information. 
