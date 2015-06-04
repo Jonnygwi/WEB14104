@@ -2,4 +2,3 @@ Net neutrality is the idea of data equality. Internet service providers and the 
 
 Like Aaron Shwartz I believe that curtains types of information should be free for anyone to look at. In particular educational documents. Science belongs to everyone it’s the makeup of everything around you, it does not belong to anyone. [Just like the sun does not belong to a crazy women in Spain.](http://www.ibtimes.co.uk/woman-sue-ebay-denying-her-right-sell-plots-land-sun-1504266) Everyone has the right to learn about science, publishing companies should not be able to charge or take ownership of this information. 
 
-Although I have strong ideas of the freedom of information I get a little frustrated with the amount of piracy there is 
