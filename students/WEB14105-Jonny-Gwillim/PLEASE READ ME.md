@@ -6,4 +6,4 @@ The development blog posts for example, moodboards, wireframs, are in the "proje
 
 [My final site] (http://jgwillim.raveweb.net/hongik/)
 
-[presentation recording] (youtube)
+[presentation recording] (http://youtu.be/-zbwR1FkvZY)
